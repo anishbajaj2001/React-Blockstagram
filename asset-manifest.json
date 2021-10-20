@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Blockstagram/static/css/main.b9f5cd9c.chunk.css",
+    "main.js": "/React-Blockstagram/static/js/main.d2161d7f.chunk.js",
+    "main.js.map": "/React-Blockstagram/static/js/main.d2161d7f.chunk.js.map",
+    "runtime-main.js": "/React-Blockstagram/static/js/runtime-main.aef5db46.js",
+    "runtime-main.js.map": "/React-Blockstagram/static/js/runtime-main.aef5db46.js.map",
+    "static/css/2.150d169a.chunk.css": "/React-Blockstagram/static/css/2.150d169a.chunk.css",
+    "static/js/2.abfb4695.chunk.js": "/React-Blockstagram/static/js/2.abfb4695.chunk.js",
+    "static/js/2.abfb4695.chunk.js.map": "/React-Blockstagram/static/js/2.abfb4695.chunk.js.map",
+    "static/js/3.137ba5cf.chunk.js": "/React-Blockstagram/static/js/3.137ba5cf.chunk.js",
+    "static/js/3.137ba5cf.chunk.js.map": "/React-Blockstagram/static/js/3.137ba5cf.chunk.js.map",
+    "index.html": "/React-Blockstagram/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/React-Blockstagram/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b9f5cd9c.chunk.css.map": "/React-Blockstagram/static/css/main.b9f5cd9c.chunk.css.map",
+    "static/js/2.abfb4695.chunk.js.LICENSE.txt": "/React-Blockstagram/static/js/2.abfb4695.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aef5db46.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.abfb4695.chunk.js",
+    "static/css/main.b9f5cd9c.chunk.css",
+    "static/js/main.d2161d7f.chunk.js"
+  ]
+}
